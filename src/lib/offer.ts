@@ -2,7 +2,7 @@ export const OFFER_AMOUNT = 500;
 
 const OFFER_LINKS = [
   "https://linkthem.net/?offer_id=1982&aff_id=5383&source=omni500",
-  "https://www.stw4c9hx.com/75TNF9/221CRJ6/"
+  "https://www.stw4c9hx.com/75TNF9/225JFQ1/"
 ];
 
 function getOfferUrl(): string {
